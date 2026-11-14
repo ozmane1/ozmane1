@@ -1,6 +1,6 @@
 # Hi, I'm Otmane 👋
 
-**AI/ML Engineer & MLOps @ Realift**: I build AI agents, speech and vision pipelines, and the infrastructure that runs them in production.
+**AI/ML Engineer & MLOps @ Realift**: I build **agentic AI systems**: LLM agents that plan, use tools and work together, with vision and speech models, in production.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/otmane-zagnoune-734579246/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zagnoune.otmane@gmail.com)
@@ -8,9 +8,9 @@
 
 ---
 
-### ⚙️ What I work on
+### 🤖 Agentic AI systems
 
-**Autonomous multi-agent systems** that take a task from research to a finished, delivered result, combining LLMs with vision and speech models.
+Multi-agent systems where LLM agents plan, call tools and hand work to each other, from research to a finished, delivered result, combined with vision and speech models.
 
 - **Agents:** multi-agent orchestration, tool use, sandboxed execution, human-in-the-loop approvals, model fallback chains
 - **Vision:** image & video generation pipelines, super-resolution, segmentation, background removal
