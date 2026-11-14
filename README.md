@@ -8,14 +8,14 @@
 
 ---
 
-### 🔭 What I'm building now
+### ⚙️ What I work on
 
-**An autonomous AI agent team that runs animated content channels end to end**: trend research → script → AI keyframes & video → upscaling → lip-sync & voices → editing → publishing.
+**Autonomous multi-agent systems** that take a task from research to a finished, delivered result, combining LLMs with vision and speech models.
 
-- **Agents:** a manager agent that delegates to specialist agents through a task board, each running in its own Docker sandbox with approval rules and model fallback chains (Claude, Gemini, open models)
-- **Vision:** Real-ESRGAN video upscaling (spandrel / PyTorch), sprite cutting and background removal (rembg / ONNX), code-driven 2D animation
-- **Speech:** TTS with Kokoro and Piper, transcription with faster-whisper, Rhubarb-based lip-sync
-- **Ops:** cron automation, budget guards on paid APIs, publishing through the official YouTube Data and Meta Graph APIs
+- **Agents:** multi-agent orchestration, tool use, sandboxed execution, human-in-the-loop approvals, model fallback chains
+- **Vision:** image & video generation pipelines, super-resolution, segmentation, background removal
+- **Speech:** text-to-speech, speech recognition, lip-sync
+- **MLOps:** automation, scheduling, cost control, API integrations, Dockerized deployments
 
 ### 🧰 Stack
 
