@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/otmane-zagnoune-734579246/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zagnoune.otmane@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=githubpages&logoColor=white)](https://ozmane1.github.io/zagnouneotmane.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=githubpages&logoColor=white)](https://ozmane1.github.io/)
 
 ---
 
